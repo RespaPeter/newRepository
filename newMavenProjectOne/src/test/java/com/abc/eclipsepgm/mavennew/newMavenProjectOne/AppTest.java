@@ -1,4 +1,4 @@
-package com.abc.eclipsepgm.MavennewProjectOne;
+package com.abc.eclipsepgm.mavennew.newMavenProjectOne;
 
 //import static org.junit.Assert.assertTrue;
 
@@ -12,7 +12,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-
+    
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );

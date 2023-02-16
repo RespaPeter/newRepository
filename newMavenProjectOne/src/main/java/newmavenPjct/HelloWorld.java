@@ -1,4 +1,4 @@
-package newPackage;
+package newmavenPjct;
 
 public class HelloWorld {
 

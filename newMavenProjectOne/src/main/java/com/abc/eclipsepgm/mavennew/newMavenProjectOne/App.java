@@ -1,4 +1,4 @@
-package com.abc.eclipsepgm.MavennewProjectOne;
+package com.abc.eclipsepgm.mavennew.newMavenProjectOne;
 
 /**
  * Hello world!
